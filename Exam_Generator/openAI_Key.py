@@ -1,6 +1,6 @@
 import os
 import openai
 
-key = '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'
+key = 'Enter Key'
 
 os.environ['OPENAI_API_KEY'] = key
